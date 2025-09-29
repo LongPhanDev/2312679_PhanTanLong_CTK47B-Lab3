@@ -1,0 +1,256 @@
+[
+  {
+    "MSSV": "2310002",
+    "HoTenLot": "Hoàng Đình",
+    "Ten": "Trực",
+    "NgaySinh": "2004-11-15T00:00:00",
+    "Lop": "CTK47B",
+    "CMND": "112233888",
+    "SoDienThoai": "0905463878",
+    "DiaChi": "Đà Nẵng",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Lập trình trên thiết bị di động"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Lập trình trên thiết bị di động"
+  },
+  {
+    "MSSV": "2310003",
+    "HoTenLot": "Lê Văn",
+    "Ten": "Công",
+    "NgaySinh": "2004-11-15T00:00:00",
+    "Lop": "CTK47C",
+    "CMND": "112233445",
+    "SoDienThoai": "0901122334",
+    "DiaChi": "Đà Nẵng",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Lập trình trên thiết bị di động"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Lập trình trên thiết bị di động"
+  },
+  {
+    "MSSV": "2210004",
+    "HoTenLot": "Phạm Thu",
+    "Ten": "Hiền",
+    "NgaySinh": "2004-03-09T00:00:00",
+    "Lop": "CTK46A",
+    "CMND": "223344556",
+    "SoDienThoai": "0922334455",
+    "DiaChi": "Huế",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "Lập trình CSDL",
+      "Hệ điều hành"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "Lập trình CSDL, Hệ điều hành"
+  },
+  {
+    "MSSV": "2210005",
+    "HoTenLot": "Hoàng Đức",
+    "Ten": "Long",
+    "NgaySinh": "2003-07-21T00:00:00",
+    "Lop": "CTK46B",
+    "CMND": "334455667",
+    "SoDienThoai": "0933445566",
+    "DiaChi": "Nam Định",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Mạng máy tính",
+      "An toàn và bảo mật hệ thống"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Mạng máy tính, An toàn và bảo mật hệ thống"
+  },
+  {
+    "MSSV": "2210006",
+    "HoTenLot": "Bùi Ngọc",
+    "Ten": "Lan Anh",
+    "NgaySinh": "2003-10-02T00:00:00",
+    "Lop": "CTK46C",
+    "CMND": "445566778",
+    "SoDienThoai": "0944556677",
+    "DiaChi": "Thái Bình",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "Lập trình mạng",
+      "Đồ án cơ sở"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "Lập trình mạng, Đồ án cơ sở"
+  },
+  {
+    "MSSV": "2110007",
+    "HoTenLot": "Vũ Minh",
+    "Ten": "Tuấn Anh",
+    "NgaySinh": "2002-12-18T00:00:00",
+    "Lop": "CTK45A",
+    "CMND": "556677889",
+    "SoDienThoai": "0955667788",
+    "DiaChi": "Quảng Ninh",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Lập trình CSDL",
+      "Lập trình trên thiết bị di động"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Lập trình CSDL, Lập trình trên thiết bị di động"
+  },
+  {
+    "MSSV": "2110008",
+    "HoTenLot": "Đặng Thị Mỹ",
+    "Ten": "Hằng",
+    "NgaySinh": "2002-06-25T00:00:00",
+    "Lop": "CTK45B",
+    "CMND": "667788990",
+    "SoDienThoai": "0966778899",
+    "DiaChi": "Hà Nam",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "An toàn và bảo mật hệ thống",
+      "Hệ điều hành"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "An toàn và bảo mật hệ thống, Hệ điều hành"
+  },
+  {
+    "MSSV": "2010009",
+    "HoTenLot": "Dương Quốc",
+    "Ten": "Phong",
+    "NgaySinh": "2001-09-13T00:00:00",
+    "Lop": "CTK44A",
+    "CMND": "778899001",
+    "SoDienThoai": "0977889900",
+    "DiaChi": "Bắc Ninh",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Mạng máy tính",
+      "Lập trình CSDL"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Mạng máy tính, Lập trình CSDL"
+  },
+  {
+    "MSSV": "2010010",
+    "HoTenLot": "Nguyễn Thị Thanh",
+    "Ten": "Nhã",
+    "NgaySinh": "2001-02-28T00:00:00",
+    "Lop": "CTK44B",
+    "CMND": "889900112",
+    "SoDienThoai": "0988990011",
+    "DiaChi": "Hà Nội",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "Đồ án cơ sở",
+      "Phương pháp NCKH"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "Đồ án cơ sở, Phương pháp NCKH"
+  },
+  {
+    "MSSV": "2310011",
+    "HoTenLot": "Trần Thanh",
+    "Ten": "Hiếu",
+    "NgaySinh": "2005-04-10T00:00:00",
+    "Lop": "CTK47D",
+    "CMND": "113355779",
+    "SoDienThoai": "0918765432",
+    "DiaChi": "Nghệ An",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Mạng máy tính",
+      "Hệ điều hành"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Mạng máy tính, Hệ điều hành"
+  },
+  {
+    "MSSV": "2310012",
+    "HoTenLot": "Lê Mai",
+    "Ten": "Chi",
+    "NgaySinh": "2005-01-25T00:00:00",
+    "Lop": "CTK47E",
+    "CMND": "224466880",
+    "SoDienThoai": "0977654321",
+    "DiaChi": "Thanh Hóa",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "Lập trình CSDL",
+      "An toàn và bảo mật hệ thống"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "Lập trình CSDL, An toàn và bảo mật hệ thống"
+  },
+  {
+    "MSSV": "2310013",
+    "HoTenLot": "Nguyễn Minh",
+    "Ten": "Khoa",
+    "NgaySinh": "2004-10-05T00:00:00",
+    "Lop": "CTK47C",
+    "CMND": "335577991",
+    "SoDienThoai": "0988543210",
+    "DiaChi": "Hải Phòng",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Lập trình mạng",
+      "Đồ án cơ sở"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Lập trình mạng, Đồ án cơ sở"
+  },
+  {
+    "MSSV": "2310014",
+    "HoTenLot": "Vũ Thùy",
+    "Ten": "Dung",
+    "NgaySinh": "2005-07-19T00:00:00",
+    "Lop": "CTK47F",
+    "CMND": "446688002",
+    "SoDienThoai": "0909987654",
+    "DiaChi": "Nam Định",
+    "GioiTinh": false,
+    "MonHocDKy": [
+      "Phương pháp NCKH",
+      "Lập trình trên thiết bị di động"
+    ],
+    "GioiTinhText": "Nữ",
+    "MonHocText": "Phương pháp NCKH, Lập trình trên thiết bị di động"
+  },
+  {
+    "MSSV": "2310015",
+    "HoTenLot": "Phan Việt",
+    "Ten": "Cường",
+    "NgaySinh": "2004-12-01T00:00:00",
+    "Lop": "CTK47B",
+    "CMND": "557799113",
+    "SoDienThoai": "0911223344",
+    "DiaChi": "Quảng Nam",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Hệ điều hành",
+      "Lập trình CSDL"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Hệ điều hành, Lập trình CSDL"
+  },
+  {
+    "MSSV": "2310016",
+    "HoTenLot": "Phan Anh",
+    "Ten": "Việt",
+    "NgaySinh": "1999-11-15T14:35:39",
+    "Lop": "CTK47B",
+    "CMND": "999999998",
+    "SoDienThoai": "0919011913",
+    "DiaChi": "Đà Lạt",
+    "GioiTinh": true,
+    "MonHocDKy": [
+      "Hệ điều hành",
+      "Mạng máy tính",
+      "Lập trình trên thiết bị di động"
+    ],
+    "GioiTinhText": "Nam",
+    "MonHocText": "Hệ điều hành, Mạng máy tính, Lập trình trên thiết bị di động"
+  }
+]

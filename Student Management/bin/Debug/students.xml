@@ -1,0 +1,215 @@
+<?xml version="1.0"?>
+<ArrayOfStudent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Student>
+    <MSSV>2310001</MSSV>
+    <HoTenLot>Nguyễn Lê Ngọc</HoTenLot>
+    <Ten>Linh</Ten>
+    <NgaySinh>2005-04-30T00:00:00</NgaySinh>
+    <Lop>CTK47B</Lop>
+    <CMND>987654321</CMND>
+    <SoDienThoai>0987654321</SoDienThoai>
+    <DiaChi>Đà Lạt</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Hệ điều hành</string>
+      <string>Phương pháp NCKH</string>
+      <string>Python</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2310002</MSSV>
+    <HoTenLot>Lê Quý Đôn</HoTenLot>
+    <Ten>An</Ten>
+    <NgaySinh>2004-05-12T00:00:00</NgaySinh>
+    <Lop>CTK47A</Lop>
+    <CMND>123456789</CMND>
+    <SoDienThoai>0912345678</SoDienThoai>
+    <DiaChi>Hội An</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình CSDL</string>
+      <string>Mạng máy tính</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2310003</MSSV>
+    <HoTenLot>Nguyễn Hoàng Anh</HoTenLot>
+    <Ten>Toản</Ten>
+    <NgaySinh>2004-11-15T00:00:00</NgaySinh>
+    <Lop>CTK47C</Lop>
+    <CMND>112233445</CMND>
+    <SoDienThoai>0901122334</SoDienThoai>
+    <DiaChi>Sapa</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Mạng máy tính</string>
+      <string>Lập trình mạng</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2210004</MSSV>
+    <HoTenLot>Phạm Bích</HoTenLot>
+    <Ten>Hương</Ten>
+    <NgaySinh>2004-03-09T00:00:00</NgaySinh>
+    <Lop>CTK46A</Lop>
+    <CMND>223344556</CMND>
+    <SoDienThoai>0922334455</SoDienThoai>
+    <DiaChi>Phú Quốc</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình CSDL</string>
+      <string>Hệ điều hành</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2210005</MSSV>
+    <HoTenLot>Đỗ Tiến</HoTenLot>
+    <Ten>Dũng</Ten>
+    <NgaySinh>2003-07-21T00:00:00</NgaySinh>
+    <Lop>CTK46B</Lop>
+    <CMND>334455667</CMND>
+    <SoDienThoai>0933445566</SoDienThoai>
+    <DiaChi>Đà Nẵng</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Mạng máy tính</string>
+      <string>An toàn và bảo mật hệ thống</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2210006</MSSV>
+    <HoTenLot>Bùi Thị</HoTenLot>
+    <Ten>Hoa</Ten>
+    <NgaySinh>2003-10-02T00:00:00</NgaySinh>
+    <Lop>CTK46C</Lop>
+    <CMND>445566778</CMND>
+    <SoDienThoai>0944556677</SoDienThoai>
+    <DiaChi>Nha Trang</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình mạng</string>
+      <string>Đồ án cơ sở</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2110007</MSSV>
+    <HoTenLot>Hoàng Minh</HoTenLot>
+    <Ten>Tuấn</Ten>
+    <NgaySinh>2002-12-18T00:00:00</NgaySinh>
+    <Lop>CTK45A</Lop>
+    <CMND>556677889</CMND>
+    <SoDienThoai>0955667788</SoDienThoai>
+    <DiaChi>Phan Thiết</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình CSDL</string>
+      <string>Lập trình trên thiết bị di động</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2110008</MSSV>
+    <HoTenLot>Ngô Bảo</HoTenLot>
+    <Ten>Ngọc</Ten>
+    <NgaySinh>2002-06-25T00:00:00</NgaySinh>
+    <Lop>CTK45B</Lop>
+    <CMND>667788990</CMND>
+    <SoDienThoai>0966778899</SoDienThoai>
+    <DiaChi>Hà Giang</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>An toàn và bảo mật hệ thống</string>
+      <string>Hệ điều hành</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2010009</MSSV>
+    <HoTenLot>Vũ Đình</HoTenLot>
+    <Ten>Khoa</Ten>
+    <NgaySinh>2001-09-13T00:00:00</NgaySinh>
+    <Lop>CTK44A</Lop>
+    <CMND>778899001</CMND>
+    <SoDienThoai>0977889900</SoDienThoai>
+    <DiaChi>Hạ Long</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Mạng máy tính</string>
+      <string>Lập trình CSDL</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2010010</MSSV>
+    <HoTenLot>Đỗ Thị Thùy</HoTenLot>
+    <Ten>Quỳnh</Ten>
+    <NgaySinh>2001-02-28T00:00:00</NgaySinh>
+    <Lop>CTK47A</Lop>
+    <CMND>889900112</CMND>
+    <SoDienThoai>0988990011</SoDienThoai>
+    <DiaChi>Bình Thuận</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Phương pháp NCKH</string>
+      <string>Python</string>
+      <string>Đồ án cơ sở</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2310011</MSSV>
+    <HoTenLot>Phan Thị Ánh</HoTenLot>
+    <Ten>Tuyết</Ten>
+    <NgaySinh>2004-01-05T00:00:00</NgaySinh>
+    <Lop>CTK47A</Lop>
+    <CMND>998877665</CMND>
+    <SoDienThoai>0911002200</SoDienThoai>
+    <DiaChi>Đà Lạt</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình mạng</string>
+      <string>Phương pháp NCKH</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2310012</MSSV>
+    <HoTenLot>Nguyễn Minh</HoTenLot>
+    <Ten>Long</Ten>
+    <NgaySinh>2005-09-17T00:00:00</NgaySinh>
+    <Lop>CTK47B</Lop>
+    <CMND>887766554</CMND>
+    <SoDienThoai>0911223344</SoDienThoai>
+    <DiaChi>Hà Nội</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>An toàn và bảo mật hệ thống</string>
+      <string>Đồ án cơ sở</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2210013</MSSV>
+    <HoTenLot>Lê Thị</HoTenLot>
+    <Ten>Thanh</Ten>
+    <NgaySinh>2003-04-22T00:00:00</NgaySinh>
+    <Lop>CTK46C</Lop>
+    <CMND>776655443</CMND>
+    <SoDienThoai>0933112244</SoDienThoai>
+    <DiaChi>Nghệ An</DiaChi>
+    <GioiTinh>false</GioiTinh>
+    <MonHocDKy>
+      <string>Hệ điều hành</string>
+      <string>Mạng máy tính</string>
+    </MonHocDKy>
+  </Student>
+  <Student>
+    <MSSV>2110014</MSSV>
+    <HoTenLot>Nguyễn Ngọc</HoTenLot>
+    <Ten>Lâm</Ten>
+    <NgaySinh>2002-07-30T00:00:00</NgaySinh>
+    <Lop>CTK45B</Lop>
+    <CMND>665544332</CMND>
+    <SoDienThoai>0955332211</SoDienThoai>
+    <DiaChi>Thừa Thiên Huế</DiaChi>
+    <GioiTinh>true</GioiTinh>
+    <MonHocDKy>
+      <string>Lập trình CSDL</string>
+      <string>Lập trình mạng</string>
+    </MonHocDKy>
+  </Student>
+</ArrayOfStudent>

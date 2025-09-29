@@ -1,0 +1,11 @@
+﻿2310002#Lê Văn#An#12/05/2004#CTK47A#123456789#0912345678#Hà Nội#1#Lập trình CSDL,Mạng máy tính
+2310003#Nguyễn Quốc#Toản#15/11/2004#CTK47C#112233445#0901122334#Đà Nẵng#1#Mạng máy tính,Lập trình mạng
+2210004#Phạm Ngọc Lan#Hương#09/03/2004#CTK46A#223344556#0922334455#Huế#0#Lập trình CSDL,Hệ điều hành
+2210005#Đỗ Tiến#Dũng#21/07/2003#CTK46B#334455667#0933445566#Nam Định#1#Mạng máy tính,An toàn và bảo mật hệ thống
+2210006#Bùi Thị#Hoa#02/10/2003#CTK46C#445566778#0944556677#Thái Bình#0#Lập trình mạng,Đồ án cơ sở
+2110007#Hoàng Minh#Tuấn#18/12/2002#CTK45A#556677889#0955667788#Quảng Ninh#1#Lập trình CSDL,Lập trình trên thiết bị di động
+2110008#Ngô Bảo#Ngọc#25/06/2002#CTK45B#667788990#0966778899#Hà Nam#0#An toàn và bảo mật hệ thống,Hệ điều hành
+2010009#Vũ Đình#Dũng#13/09/2001#CTK44A#778899001#0977889900#Bắc Ninh#1#Mạng máy tính,Lập trình CSDL
+2010010#Trần Thị Thúy#Quỳnh#28/02/2001#CTK44B#889900112#0988990011#Hà Nội#0#Đồ án cơ sở,Phương pháp NCKH
+2310012#Nguyễn Minh#Long#17/09/2005#CTK47B#887766554#0911223344#Quảng Bình#1#Mạng máy tính,Lập trình mạng
+2210013#Lê Thị#Hường#22/04/2003#CTK46C#776655443#0933112244#Nghệ An#0#Hệ điều hành,Mạng máy tính
