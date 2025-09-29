@@ -214,6 +214,7 @@ namespace Student_Management
             rdNu.Checked = false;
             msktSCMND.Clear();
             msktSoDT.Clear();
+            txtDiaChi.Clear();
             for(int i = 0; i < clMonHocDangKy.Items.Count; i++)
             {
                 clMonHocDangKy.SetItemChecked(i, false);
@@ -264,26 +265,30 @@ namespace Student_Management
         {
             dgvDanhsachsv.EndEdit();
             List<string> mssvToErase = new List<string>();
-            foreach (DataGridViewRow row in dgvDanhsachsv.SelectedRows)
+
+            foreach (DataGridViewRow row in dgvDanhsachsv.Rows)
             {
-                if(row.DataBoundItem is Student sv)
+                if (row.Cells["colCheck"] is DataGridViewCheckBoxCell chk && chk.Value is bool isChecked && isChecked)
                 {
-                    mssvToErase.Add(sv.MSSV);
+                    if (row.DataBoundItem is Student sv)
+                    {
+                        mssvToErase.Add(sv.MSSV);
+                    }
                 }
             }
-            // Nếu không có hàng nào được chọn, kiểm tra hàng hiện tại (CurrentRow) để xóa 1 mục
-            if (mssvToErase.Count == 0 && dgvDanhsachsv.CurrentRow != null)
+
+            if (mssvToErase.Count == 0)
             {
-                if (dgvDanhsachsv.CurrentRow.DataBoundItem is Student sv)
-                {
-                    mssvToErase.Add(sv.MSSV);
-                }
+                MessageBox.Show("Vui lòng chọn ít nhất một sinh viên để xóa.", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                return;
             }
+
             DialogResult result = MessageBox.Show(
                 $"Bạn có chắc chắn muốn xóa {mssvToErase.Count} sinh viên đã chọn không?",
                 "Xác nhận Xóa",
                 MessageBoxButtons.YesNo,
                 MessageBoxIcon.Question);
+
             if (result == DialogResult.Yes)
             {
                 int deletedCount = 0;
@@ -295,7 +300,6 @@ namespace Student_Management
                         deletedCount++;
                     }
                 }
-
                 try
                 {
                     studentManager.SaveTo();

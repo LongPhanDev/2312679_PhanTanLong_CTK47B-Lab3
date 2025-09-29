@@ -9,7 +9,7 @@
     "SoDienThoai": "0905463878",
     "DiaChi": "Đà Nẵng",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình trên thiết bị di động"
     ],
     "GioiTinhText": "Nam",
@@ -25,7 +25,7 @@
     "SoDienThoai": "0901122334",
     "DiaChi": "Đà Nẵng",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình trên thiết bị di động"
     ],
     "GioiTinhText": "Nam",
@@ -41,7 +41,7 @@
     "SoDienThoai": "0922334455",
     "DiaChi": "Huế",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình CSDL",
       "Hệ điều hành"
     ],
@@ -58,7 +58,7 @@
     "SoDienThoai": "0933445566",
     "DiaChi": "Nam Định",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Mạng máy tính",
       "An toàn và bảo mật hệ thống"
     ],
@@ -75,7 +75,7 @@
     "SoDienThoai": "0944556677",
     "DiaChi": "Thái Bình",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình mạng",
       "Đồ án cơ sở"
     ],
@@ -92,7 +92,7 @@
     "SoDienThoai": "0955667788",
     "DiaChi": "Quảng Ninh",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình CSDL",
       "Lập trình trên thiết bị di động"
     ],
@@ -109,7 +109,7 @@
     "SoDienThoai": "0966778899",
     "DiaChi": "Hà Nam",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "An toàn và bảo mật hệ thống",
       "Hệ điều hành"
     ],
@@ -126,7 +126,7 @@
     "SoDienThoai": "0977889900",
     "DiaChi": "Bắc Ninh",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Mạng máy tính",
       "Lập trình CSDL"
     ],
@@ -143,7 +143,7 @@
     "SoDienThoai": "0988990011",
     "DiaChi": "Hà Nội",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Đồ án cơ sở",
       "Phương pháp NCKH"
     ],
@@ -160,7 +160,7 @@
     "SoDienThoai": "0918765432",
     "DiaChi": "Nghệ An",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Mạng máy tính",
       "Hệ điều hành"
     ],
@@ -177,7 +177,7 @@
     "SoDienThoai": "0977654321",
     "DiaChi": "Thanh Hóa",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình CSDL",
       "An toàn và bảo mật hệ thống"
     ],
@@ -194,7 +194,7 @@
     "SoDienThoai": "0988543210",
     "DiaChi": "Hải Phòng",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Lập trình mạng",
       "Đồ án cơ sở"
     ],
@@ -211,7 +211,7 @@
     "SoDienThoai": "0909987654",
     "DiaChi": "Nam Định",
     "GioiTinh": false,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Phương pháp NCKH",
       "Lập trình trên thiết bị di động"
     ],
@@ -228,7 +228,7 @@
     "SoDienThoai": "0911223344",
     "DiaChi": "Quảng Nam",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Hệ điều hành",
       "Lập trình CSDL"
     ],
@@ -245,7 +245,7 @@
     "SoDienThoai": "0919011913",
     "DiaChi": "Đà Lạt",
     "GioiTinh": true,
-    "MonHocDKy": [
+    "MonHocDangKy": [
       "Hệ điều hành",
       "Mạng máy tính",
       "Lập trình trên thiết bị di động"
